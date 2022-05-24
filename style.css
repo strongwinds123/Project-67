@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: lightslategray;
+}
+
+#myCarousel
+{
+    background-color: lightslategray;
+    margin-top:50px;
+    padding:15px;
+}
+
+
